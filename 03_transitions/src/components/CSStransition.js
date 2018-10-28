@@ -7,7 +7,7 @@ class Fade extends Component {
     state = {
         show: true,
     }
-
+//WIP
     showDiv = () => {
         this.setState({
             show:!this.state.show ? true : false
